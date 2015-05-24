@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ohbarye/dev/pythonLesson/Parody-Record-Atelier/pra"
+VIRTUAL_ENV="/Users/ohbarye/dev/pythonLesson/django-tutorial/dt"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
