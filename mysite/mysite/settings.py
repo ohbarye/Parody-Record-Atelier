@@ -69,6 +69,10 @@ TEMPLATES = [
     },
 ]
 
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'polls/temlates'),
+)
+
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
