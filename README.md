@@ -1,2 +1,2 @@
-# Parody-Record-Atelier
-Parody Record Atelier
+# Django Tutorial
+Django Tutorial
